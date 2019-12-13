@@ -1,0 +1,673 @@
+# Translation of Themes - Edge in Japanese
+# This file is distributed under the same license as the Themes - Edge package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-11-26 07:40:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Edge\n"
+
+#. Theme Name of the theme
+#: inc/upgrade-plus/class-customize.php:63
+msgid "Edge"
+msgstr "Edge"
+
+#: inc/customizer/functions/theme-options.php:42
+msgid "Options"
+msgstr "オプション"
+
+#: inc/customizer/functions/theme-options.php:109
+msgid "Crop Excerpt length by text"
+msgstr "抜粋をテキストの長さで切り取る"
+
+#: functions.php:157
+msgid "Support Ticket"
+msgstr "サポートチケット"
+
+#: inc/customizer/functions/theme-options.php:132
+msgid "Display Instagram Full Width"
+msgstr "Instagram 全幅を表示"
+
+#: inc/upgrade-plus/class-customize.php:64
+msgid "Upgrade To Plus"
+msgstr "Plus にアップグレード"
+
+#: inc/customizer/functions/theme-options.php:121
+msgid "Display Page Featured Image"
+msgstr "ページのアイキャッチ画像を表示"
+
+#: inc/customizer/functions/design-options.php:39
+msgid "Disable Big letter"
+msgstr "大文字を無効にする"
+
+#: single.php:53 content.php:88
+msgid "No Comments"
+msgstr "コメントなし"
+
+#: footer.php:98
+msgid "Go to Top"
+msgstr "Go to Top"
+
+#: header.php:75 header.php:85 functions.php:53
+msgid "Main Menu"
+msgstr "メインメニュー"
+
+#: functions.php:158
+msgid "Forum"
+msgstr "フォーラム"
+
+#: functions.php:164
+msgid "About Edge"
+msgstr "Edge について"
+
+#: inc/customizer/functions/color-options.php:24
+msgid "Select Color Style"
+msgstr "色のスタイルを選択"
+
+#: inc/customizer/functions/color-options.php:38
+msgid "Nav and links"
+msgstr "ナビゲーションとリンク"
+
+#: inc/customizer/functions/color-options.php:60
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/customizer/functions/design-options.php:12
+msgid "Layout Options"
+msgstr "レイアウトオプション"
+
+#: inc/customizer/functions/design-options.php:23
+msgid "Responsive Layout"
+msgstr "レスポンシブレイアウト"
+
+#: inc/customizer/functions/design-options.php:56
+msgid "Blog Layout"
+msgstr "ブログレイアウト"
+
+#: inc/customizer/functions/design-options.php:105
+msgid "Design Layout"
+msgstr "デザインレイアウト"
+
+#: inc/customizer/functions/featured-content-customizer.php:12
+msgid "Slider Settings"
+msgstr "スライダー設定"
+
+#: inc/customizer/functions/featured-content-customizer.php:29
+msgid "Entire Site"
+msgstr "サイト全体"
+
+#: inc/customizer/functions/register-panel.php:17
+msgid "Edge WordPress Settings"
+msgstr "Edge WordPress 設定"
+
+#: inc/customizer/functions/featured-content-customizer.php:70
+msgid "Show Background Color"
+msgstr "背景色を表示"
+
+#: inc/customizer/functions/register-panel.php:27
+msgid "Edge Theme Options"
+msgstr "Edge テーマオプション"
+
+#: inc/customizer/functions/register-panel.php:37
+msgid "Edge Slider Options"
+msgstr "Edge スライダーオプション"
+
+#: inc/customizer/functions/register-panel.php:47
+msgid "Edge Widgets"
+msgstr "Edge ウィジェット"
+
+#: inc/customizer/functions/register-panel.php:57
+msgid "Edge Colors"
+msgstr "Edge 色"
+
+#: inc/customizer/functions/social-icons.php:25
+msgid "Facebook Link"
+msgstr "Facebook リンク"
+
+#: inc/customizer/functions/social-icons.php:39
+msgid "Twitter Link"
+msgstr "Twitter リンク"
+
+#: inc/customizer/functions/social-icons.php:53
+msgid "Pinterest Link"
+msgstr "Pinterest リンク"
+
+#: inc/customizer/functions/social-icons.php:67
+msgid "Dribbble Link"
+msgstr "Dribbble リンク"
+
+#: inc/customizer/functions/social-icons.php:81
+msgid "Instagram Link"
+msgstr "Instagram リンク"
+
+#: inc/customizer/functions/social-icons.php:95
+msgid "Flickr Link"
+msgstr "Flickr リンク"
+
+#: inc/customizer/functions/social-icons.php:109
+msgid "Google Plus Link"
+msgstr "Google Plus リンク"
+
+#: inc/customizer/functions/social-icons.php:123
+msgid "Linkedin Link"
+msgstr "Linkedin リンク"
+
+#: inc/customizer/functions/theme-options.php:160
+msgid "Custom CSS"
+msgstr "カスタム CSS"
+
+#: inc/customizer/functions/theme-options.php:185
+msgid "Colors"
+msgstr "色"
+
+#: inc/customizer/functions/theme-options.php:195
+msgid "Navigation"
+msgstr "ナビゲーション"
+
+#: footer.php:88
+msgid "Designed by:"
+msgstr "Designed by:"
+
+#: footer.php:89
+msgid "Powered by:"
+msgstr "Powered by:"
+
+#: footer.php:89
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/settings/color-option-functions.php:24
+msgid "Dark"
+msgstr "ダーク"
+
+#: inc/settings/color-option-functions.php:44
+msgid "Pink"
+msgstr "ピンク"
+
+#: inc/settings/edge-common-functions.php:21
+msgid "Newer Comments"
+msgstr "新しいコメント"
+
+#: inc/settings/edge-common-functions.php:83
+msgid "Images"
+msgstr "画像"
+
+#: inc/settings/edge-common-functions.php:85
+msgid "Galleries"
+msgstr "ギャラリー"
+
+#: inc/settings/edge-common-functions.php:87
+msgid "Videos"
+msgstr "動画"
+
+#: inc/settings/edge-common-functions.php:89
+msgid "Status"
+msgstr "ステータス"
+
+#: inc/settings/edge-common-functions.php:93
+msgid "links"
+msgstr "リンク"
+
+#: inc/settings/edge-common-functions.php:95
+msgid "Chats"
+msgstr "チャット"
+
+#: inc/settings/edge-common-functions.php:106
+msgid "Page NOT Found"
+msgstr "ページが見つかりません"
+
+#: inc/settings/edge-common-functions.php:108
+msgid "Search Results"
+msgstr "検索結果"
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:32
+msgid "Address:"
+msgstr "住所:"
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:44
+msgid "Phone No 1:"
+msgstr "電話番号1:"
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:50
+msgid "Phone No 2:"
+msgstr "電話番号2:"
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:56
+msgid "Skype ID:"
+msgstr "Skype ID:"
+
+#: inc/widgets/widgets-functions/register-widgets.php:48
+msgid "WooCommerce Sidebar"
+msgstr "WooCommerce サイドバー"
+
+#: single.php:102
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: single.php:103
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#. Template Name of the theme
+msgid "Contact Template"
+msgstr "お問い合わせテンプレート"
+
+#. Template Name of the theme
+msgid "Gallery Template"
+msgstr "ギャラリーテンプレート"
+
+#: inc/customizer/functions/design-options.php:79
+msgid "Show Button Only"
+msgstr "ボタンのみ表示"
+
+#: inc/customizer/functions/design-options.php:80
+msgid "Hide Button Only"
+msgstr "ボタンのみ隠す"
+
+#: inc/customizer/functions/design-options.php:111
+msgid "Boxed Layout"
+msgstr "ボックスレイアウト"
+
+#: inc/customizer/functions/design-options.php:112
+msgid "Small Boxed Layout"
+msgstr "小ボックスレイアウト"
+
+#: inc/customizer/functions/theme-options.php:36
+msgid "Header Image"
+msgstr "ヘッダー画像"
+
+#: inc/customizer/functions/theme-options.php:166
+#: inc/customizer/functions/theme-options.php:177
+msgid "Footer Background Image"
+msgstr "フッター背景画像"
+
+#: inc/settings/edge-common-functions.php:15
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: inc/settings/edge-common-functions.php:77
+msgid "Year: %s"
+msgstr "年: %s"
+
+#: inc/settings/edge-common-functions.php:73
+msgid "Day: %s"
+msgstr "日: %s"
+
+#: inc/settings/edge-common-functions.php:75
+msgid "Month: %s"
+msgstr "月: %s"
+
+#: inc/customizer/functions/color-options.php:49
+msgid "Buttons Reset/ Submit"
+msgstr "ボタンのリセット / 送信"
+
+#: inc/customizer/functions/featured-content-customizer.php:75
+msgid "Display Page Slider"
+msgstr "ページスライダーを表示"
+
+#: inc/widgets/widgets-functions/register-widgets.php:39
+msgid "Shortcode For Contact Page"
+msgstr "お問い合わせページのショートコード"
+
+#: inc/customizer/functions/theme-options.php:12
+msgid "Site Title & Logo Options"
+msgstr "サイトタイトル & ロゴオプション"
+
+#: inc/customizer/functions/theme-options.php:23
+msgid "Site Logo/ Text Options"
+msgstr "サイトロゴ / テキストオプション"
+
+#: inc/customizer/functions/theme-options.php:29
+msgid "Display Site Title Only"
+msgstr "サイトタイトルのみ表示する"
+
+#: inc/customizer/functions/theme-options.php:30
+msgid "Display Site Logo Only"
+msgstr "サイトロゴのみ表示する"
+
+#: inc/customizer/functions/theme-options.php:31
+msgid "Show Both"
+msgstr "両方とも表示する"
+
+#: inc/customizer/functions/theme-options.php:32
+msgid "Disable Both"
+msgstr "両方とも無効にする"
+
+#: inc/settings/edge-common-functions.php:146 functions.php:54
+msgid "Footer Menu"
+msgstr "フッターメニュー"
+
+#: functions.php:154 functions.php:155
+msgid "Theme Instructions"
+msgstr "テーマ手順"
+
+#: inc/widgets/widgets-functions/register-widgets.php:30
+msgid "Contact Page Sidebar"
+msgstr "問い合わせページのサイドバー"
+
+#: pagination.php:19
+msgid "&laquo; Previous Page"
+msgstr "&laquo; 前のページ"
+
+#: pagination.php:22
+msgid "Next Page &raquo;"
+msgstr "次のページ &raquo;"
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:26
+msgid "Contact Title:"
+msgstr "連絡先タイトル:"
+
+#: functions.php:151 functions.php:152
+msgid "Review Edge"
+msgstr "Edge のレビュー"
+
+#: inc/customizer/functions/design-options.php:63
+msgid "Single Column Blog Display"
+msgstr "シングルカラム・ブログ表示"
+
+#: inc/customizer/functions/featured-content-customizer.php:65
+msgid "Slider Content With background color"
+msgstr "スライダーコンテンツの背景色"
+
+#: inc/customizer/functions/design-options.php:62
+msgid "Blog Medium Image Display"
+msgstr "ブログに中サイズの画像を表示"
+
+#: inc/customizer/functions/design-options.php:61
+msgid "Blog Large Image Display"
+msgstr "ブログに大サイズの画像を表示"
+
+#: inc/customizer/functions/featured-content-customizer.php:41
+msgid "Secondary Button Text"
+msgstr "第2ボタンのテキスト"
+
+#: inc/customizer/functions/theme-options.php:178
+msgid "Image will be displayed on footer"
+msgstr "画像はフッターに表示されます"
+
+#: single.php:97
+msgid "&larr; Previous"
+msgstr "&larr; 前へ"
+
+#: single.php:98
+msgid "Next &rarr;"
+msgstr "次へ &rarr;"
+
+#: inc/settings/edge-common-functions.php:81
+msgid "Asides"
+msgstr "アサイド"
+
+#: inc/widgets/widgets-functions/register-widgets.php:16
+msgid "Shows widgets at Main Sidebar."
+msgstr "メインサイドバーにウィジェットを表示する。"
+
+#: inc/widgets/widgets-functions/register-widgets.php:50
+msgid "Add WooCommerce Widgets Only"
+msgstr "WooCommerce ウィジェットのみに追加する"
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:13
+msgid "TF: Contact Us"
+msgstr "TF: お問い合わせ"
+
+#: inc/customizer/functions/theme-options.php:149
+msgid "Enter your custom CSS"
+msgstr "カスタム CSS を入力"
+
+#: inc/customizer/functions/featured-content-customizer.php:53
+msgid "Secondary Button Url"
+msgstr "第2ボタンの URL"
+
+#: inc/widgets/widgets-functions/register-widgets.php:32
+msgid "Shows widgets on Contact Page Template."
+msgstr "お問い合わせページテンプレートでウィジェットを表示します。"
+
+#: 404.php:34
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "こちらには何もありません。検索をお試しください。"
+
+#: inc/settings/edge-common-functions.php:18
+msgid "Older Comments"
+msgstr "過去のコメント"
+
+#: inc/settings/color-option-functions.php:55
+msgid "Blue"
+msgstr "青"
+
+#: inc/settings/color-option-functions.php:34
+msgid "Yellow"
+msgstr "黄"
+
+#: inc/settings/color-option-functions.php:65
+msgid "Purple"
+msgstr "紫"
+
+#: inc/settings/edge-common-functions.php:91
+msgid "Quotes"
+msgstr "引用"
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:62
+msgid "Email ID:"
+msgstr "メール ID:"
+
+#: single.php:53 content.php:88
+msgid "Comments Off"
+msgstr "コメントは受け付けていません"
+
+#: single.php:71 page-templates/gallery-template.php:39 page.php:48
+msgid "Pages:"
+msgstr "固定ページ:"
+
+#: single.php:112 index.php:35 page-templates/gallery-template.php:52
+#: page-templates/contact-template.php:51 search.php:49 page.php:61
+msgid "No Posts Found."
+msgstr "投稿が見つかりませんでした。"
+
+#: inc/widgets/widgets-functions/register-widgets.php:62
+msgid "Shows widgets at Footer Column "
+msgstr "フッターカラムにウィジェットを表示 "
+
+#: inc/widgets/widgets-functions/register-widgets.php:60
+msgid "Footer Column "
+msgstr "フッターカラム "
+
+#: inc/widgets/widgets-functions/register-widgets.php:41
+msgid "Add Contact Form 7 Shortcode using text widgets Ex: [contact-form-7 id=\"137\" title=\"Contact form 1\"]"
+msgstr "Contact Form 7 ショートコードをテキストウィジェットを使って追加できます。例: [contact-form-7 id=\"137\" title=\"Contact form 1\"]"
+
+#: inc/widgets/widgets-functions/register-widgets.php:25
+msgid "Shows widgets on all page."
+msgstr "すべてのページにウィジェットを表示する。"
+
+#: inc/widgets/widgets-functions/register-widgets.php:23
+msgid "Display Contact Info at Header "
+msgstr "ヘッダーに連絡先情報を表示 "
+
+#: inc/widgets/widgets-functions/register-widgets.php:14
+msgid "Main Sidebar"
+msgstr "メインスライダー"
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:38
+msgid "Address Link:"
+msgstr "住所リンク:"
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:11
+msgid "Display Contact Us Information"
+msgstr "お問い合わせ情報を表示"
+
+#: inc/settings/edge-common-functions.php:79
+msgid "Audios"
+msgstr "音声ファイル"
+
+#: inc/settings/edge-common-functions.php:70
+msgid "Author: %s"
+msgstr "投稿者: %s"
+
+#: inc/customizer/functions/theme-options.php:190
+msgid "Background Image"
+msgstr "背景画像"
+
+#: inc/customizer/functions/theme-options.php:144
+msgid "Reset all default settings. (Refresh it to view the effect)"
+msgstr "すべてのデフォルト設定をリセット (効果を表示するにはリロードしてください)。"
+
+#: inc/customizer/functions/theme-options.php:98
+msgid "Disable Buttom Social Icons"
+msgstr "下部のソーシャルアイコンを無効化"
+
+#: inc/customizer/functions/theme-options.php:87
+msgid "Disable Top Social Icons"
+msgstr "上部のソーシャルアイコンを無効化"
+
+#: inc/customizer/functions/theme-options.php:76
+msgid "Disable Goto Top"
+msgstr "トップへ移動するボタンを無効化"
+
+#: inc/customizer/functions/theme-options.php:65
+msgid "Disable Stick Menu"
+msgstr "上部固定メニューを無効化"
+
+#: inc/customizer/functions/theme-options.php:54
+msgid "Disable Search Form"
+msgstr "検索フォームを無効化"
+
+#: inc/customizer/functions/frontpage-features.php:36
+msgid " Feature #"
+msgstr " 機能の番号"
+
+#: inc/customizer/functions/frontpage-features.php:23
+msgid "Disable in Front Page"
+msgstr "フロントページで無効化"
+
+#: inc/customizer/functions/frontpage-features.php:12
+msgid "Display FrontPage Features"
+msgstr "フロントページにおすすめを表示"
+
+#: inc/customizer/functions/featured-content-customizer.php:88
+msgid " Page Slider #"
+msgstr " ページスライダーの番号"
+
+#: inc/customizer/functions/featured-content-customizer.php:30
+msgid "Disable Slider"
+msgstr "スライダーを無効化"
+
+#: inc/customizer/functions/featured-content-customizer.php:28
+msgid "Front Page"
+msgstr "フロントページ"
+
+#: inc/customizer/functions/featured-content-customizer.php:23
+msgid "Enable Slider"
+msgstr "スライダーを有効化"
+
+#: inc/customizer/functions/design-options.php:110
+msgid "Full Width Layout"
+msgstr "フル幅レイアウト"
+
+#: inc/customizer/functions/design-options.php:95
+msgid "Hide Entry Meta"
+msgstr "投稿メタ情報を非表示"
+
+#: inc/customizer/functions/design-options.php:94
+msgid "Display Entry Meta"
+msgstr "投稿メタ情報を表示"
+
+#: inc/customizer/functions/design-options.php:90
+msgid "Disable Entry Meta from Blog Page"
+msgstr "ブログページで投稿メタ情報を無効化"
+
+#: inc/customizer/functions/design-options.php:78
+msgid "Hide Entry Format"
+msgstr "投稿フォーマットを非表示"
+
+#: inc/customizer/functions/design-options.php:77
+msgid "Display Entry Format"
+msgstr "投稿フォーマットを表示"
+
+#: inc/customizer/functions/design-options.php:73
+msgid "Disable Entry Format from Blog Page"
+msgstr "ブログページで投稿フォーマットを無効化"
+
+#: inc/customizer/functions/design-options.php:29
+#: inc/customizer/functions/design-options.php:45
+msgid "OFF"
+msgstr "オフ"
+
+#: inc/customizer/edge-default-values.php:30
+#: inc/settings/edge-functions.php:207 content.php:66
+msgid "Read More"
+msgstr "続きを読む"
+
+#: single.php:86 content.php:30
+msgid ", "
+msgstr "、"
+
+#: single.php:84
+msgid "Category : "
+msgstr "カテゴリー: "
+
+#: single.php:53 content.php:88
+msgid "% Comments"
+msgstr "%件のコメント"
+
+#: single.php:53 content.php:88
+msgid "1 Comment"
+msgstr "1件のコメント"
+
+#: comments.php:55
+msgid "Comments are closed."
+msgstr "現在コメントは受け付けていません。"
+
+#: 404.php:31
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "お探しのページが見つかりません。"
+
+#: inc/settings/color-option-functions.php:75
+msgid "Van Buren Brown"
+msgstr "こげ茶"
+
+#: inc/settings/color-option-functions.php:14
+msgid "--Default--"
+msgstr "--デフォルト--"
+
+#: inc/customizer/functions/featured-content-customizer.php:71
+msgid "Hide Background Color"
+msgstr "背景色を非表示"
+
+#: inc/customizer/functions/color-options.php:11
+msgid "Color Options"
+msgstr "色設定"
+
+#: inc/customizer/functions/social-icons.php:12
+msgid "Social Icons"
+msgstr "SNS アイコン"
+
+#: inc/customizer/functions/design-options.php:28
+#: inc/customizer/functions/design-options.php:44
+msgid "ON "
+msgstr "オン "
+
+#: searchform.php:19 inc/customizer/edge-default-values.php:27
+msgid "Search &hellip;"
+msgstr "検索&hellip;"
+
+#: inc/customizer/functions/theme-options.php:200
+msgid "Static Front Page"
+msgstr "固定フロントページ"
+
+#. Author of the theme
+#: footer.php:88
+msgid "Theme Freesia"
+msgstr "Theme Freesia"
+
+#. Theme URI of the theme
+msgid "https://themefreesia.com/themes/edge"
+msgstr "https://themefreesia.com/themes/edge"
+
+#. Author URI of the theme
+msgid "https://themefreesia.com"
+msgstr "https://themefreesia.com"
