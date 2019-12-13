@@ -127,22 +127,22 @@ $edge_settings = edge_get_theme_options(); ?>
 </header> <!-- end #masthead -->
 <!-- Main Page Start ============================================= -->
 <div id="content">
-<div class="container clearfix">
+<?php
+if(is_front_page() || is_page(12)){ ?>
+  <div class="container clearfix noMw">
+<?php } else { ?>
+  <div class="container clearfix">
+<?php } ?>
 <?php 
 if(is_front_page()){
 	do_action('edge_display_frontpage_features');
 }
-if(!is_home()){?>
+if(!is_front_page()){?>
 	<div class="page-header">
-		<?php if ( is_front_page()) : ?>
-			<h2 class="page-title"><?php echo edge_header_title(); ?></h2>
-			<!-- .page-title -->
-		<?php else : ?>
-			<h1 class="page-title"><?php echo edge_header_title(); ?></h1>
-			<!-- .page-title -->
-		<?php endif; ?>
+    <h1 class="page-title"><?php echo edge_header_title(); ?></h1>
+    <!-- .page-title -->
 		<?php edge_breadcrumb(); ?>
 		<!-- .breadcrumb -->
 	</div>
 	<!-- .page-header -->
-<?php }
+<?php } 

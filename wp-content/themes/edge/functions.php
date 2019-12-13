@@ -274,4 +274,7 @@ if ( ! function_exists( 'edge_the_custom_logo' ) ) :
  	        the_custom_logo(); 
  	    }
  	} 
- 	endif;
+   endif;
+   
+
+   remove_filter('the_excerpt', 'wpautop');

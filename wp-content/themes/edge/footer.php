@@ -73,6 +73,16 @@ $footer_column = $edge_settings['edge_footer_column_section'];
 	</div> <!-- end .widget-wrap -->
 	<?php } ?>
 <div class="site-info" <?php if($edge_settings['edge-img-upload-footer-image'] !=''){?>style="background-image:url('<?php echo esc_url($edge_settings['edge-img-upload-footer-image']); ?>');" <?php } ?>>
+  <div class="snsArea">
+    <ul class="snsLink">
+      <li class="snsLink__item">
+        <a href="/">FaceBook</a>
+      </li>
+      <li class="snsLink__item">
+        <a href="/">Twitter</a>
+      </li>
+    </ul>
+  </div><!-- /snsArea --> 
 	<div class="container">
 	<?php
 		if($edge_settings['edge_buttom_social_icons'] == 0):
