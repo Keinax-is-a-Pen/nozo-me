@@ -43,6 +43,9 @@ define('DB_CHARSET', 'utf8');
 /** データベースの照合順序 (ほとんどの場合変更する必要はありません) */
 define('DB_COLLATE', '');
 
+define ('WP_SITEURL', 'http://nozo-me');
+define ('WP_HOME', 'http://nozo-me');
+
 /**#@+
  * 認証用ユニークキー
  *
