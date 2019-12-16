@@ -121,7 +121,7 @@
 	.container,
 	.boxed-layout #page,
 	.boxed-layout-small #page {
-		width: 460px;
+		width: 90%;
 	}
 	.boxed-layout .container,
 	.boxed-layout-small .container {
@@ -409,17 +409,32 @@
 	}
 	.site-info #site-branding {
 		max-width: 100%;
-	}
+  }
+  .works { padding-top: 40px; }
+  .works__title { padding-bottom: 40px; }
+  .workList { flex-wrap: wrap; }
+  .workList__item {
+    width: calc(95% / 2);
+  }
+  .blog { padding-top: 40px; }
+  .blog__title { padding-bottom: 40px; }
+  .blogList { flex-wrap: wrap; }
+  .blogList__item { width: calc(95% / 2); }
+
+  .aboutWrap {
+    flex-direction: column-reverse;
+  }
+  .aboutWrap__right { width: 100%; }
+  .aboutWrap__left { width: 100%; }
+  .detailWrap__item { width: 100%; }
+  .detailWrap__content { width: 100%; }
+  .historyWrap__item { width: 100%; }
+  .historyWrap__content { width: 100%; }
 }
 
 /* All Mobile Screen ( smaller than 481px )
 ================================================== */
 @media only screen and (max-width: 480px) {
-	.container,
-	.boxed-layout #page,
-	.boxed-layout-small #page {
-		width: 300px;
-	}
 	.boxed-layout .container,
 	.boxed-layout-small .container {
 		width: 280px;

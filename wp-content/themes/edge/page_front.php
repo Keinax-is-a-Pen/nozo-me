@@ -32,7 +32,11 @@ get_header(); ?>
             foreach ( $custom_posts as $post ): setup_postdata($post); ?>
               <li class="workList__item">
                 <a href="<?php the_permalink(); ?>">
+                <?php if (has_post_thumbnail()) : ?>
                   <figure class="workList__item-thumb"><img src="<?php the_post_thumbnail_url(); ?>" alt="<?php the_title(); ?>"></figure>
+                <?php else : ?>
+                  <figure class="workList__item-thumb"><img src="<?php echo catch_that_image(); ?>" alt="<?php the_title(); ?>"></figure>
+                <?php endif ; ?>
                   <h3 class="workList__item-title"><?php the_title(); ?></h3>
                 </a>
               </li><!-- /.workList__item --> 
