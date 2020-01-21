@@ -3084,13 +3084,11 @@ ul#npcatch {
   width: 100%;
   display: flex;
   justify-content: flex-start;
+  flex-wrap: wrap;
 }
 .workList__item {
   width: calc(95% / 3);
   margin-bottom: 20px;
-}
-.workList__item:nth-of-type(n + 4) {
-  margin-left: 2.5%;
 }
 .workList__item a {
   display: block;
@@ -3118,6 +3116,9 @@ ul#npcatch {
 .workList__item + .workList__item {
   margin-left: 2.5%;
 }
+.workList__item:nth-of-type(3n + 1) {
+  margin-left: 0;
+}
 
 
 .blog {
@@ -3138,9 +3139,6 @@ ul#npcatch {
 }
 .blogList__item {
   width: calc(95% / 3);
-}
-.blogList__item:nth-of-type(n + 4) {
-  margin-left: 2.5%;
 }
 .blogList__item a {
   display: block;
@@ -3179,6 +3177,9 @@ ul#npcatch {
 }
 .blogList__item-moreBtn a:hover { opacity: 0.4; }
 .blogList__item + .blogList__item {
+  margin-left: 2.5%;
+}
+.blogList__item:nth-of-type(3n + 1) {
   margin-left: 2.5%;
 }
 
